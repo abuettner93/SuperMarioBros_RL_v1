@@ -1,5 +1,8 @@
-/saved_models/
-!/saved_models/handpicked/
+
+#!/saved_models/
+/saved_models/*
+#!/saved_models/handpicked/
+
 .DS_Store
 
 # Created by .ignore support plugin (hsz.mobi)
